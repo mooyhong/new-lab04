@@ -1,4 +1,13 @@
 ---
+name: NewBugReport
+about: template for class
+title: "[Bug]: "
+labels: bug
+assignees: ''
+
+---
+
+---
 
 name: NewBugReport
 description: File a bug report
@@ -64,4 +73,3 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
 ---
-
