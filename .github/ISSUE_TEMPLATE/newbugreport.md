@@ -8,7 +8,6 @@ assignees: ''
 ---
 
 ---
-
 name: NewBugReport
 description: File a bug report
 about: template for class
