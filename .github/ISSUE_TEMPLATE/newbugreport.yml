@@ -1,14 +1,5 @@
 ---
 name: NewBugReport
-about: template for class
-title: "[Bug]: "
-labels: bug
-assignees: ''
-
----
-
----
-name: NewBugReport
 description: File a bug report
 about: template for class
 title: "[Bug]: "
